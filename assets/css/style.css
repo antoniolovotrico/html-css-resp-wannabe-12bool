@@ -3,19 +3,29 @@
 }
 
 img {
-  height: 300px;
-  padding: 50px;
+  height: 200px;
+  padding: 10px;
+  margin: 10px;
+
 }
 
 .row {
-  margin: 50px;
+  margin: 50px 0;
 }
 
 .bg_grey {
-  background-color: lightgrey;
+  background-color: #f9f9f9;
 }
 
 .why img {
-  background-color: lightblue;
+  background-color: #428bca;
   border-radius: 150px;
+}
+
+p {
+  padding: 10px;
+}
+
+h3 {
+  padding: 10px;
 }
